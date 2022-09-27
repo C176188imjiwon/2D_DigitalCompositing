@@ -6,3 +6,6 @@
 ## Gamma
 
 ## Visual Languages for Stortytelling
+* Value  
+* Contrast  
+* Sharpness  
