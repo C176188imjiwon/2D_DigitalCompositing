@@ -1,4 +1,4 @@
-### <2D DigitalCompositing_1주차 Weekly Research>
+### <2D 디지털 합성_1주차 Weekly Research> 
 (아직 쓰는 중입니다 ..) 
 
 ## 2D
