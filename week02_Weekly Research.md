@@ -28,6 +28,7 @@
   - 현실에서 물체를 볼 때는 물체의 색 그대로 보여지지만, 카메라 렌즈의 제조사, 색상 알고리즘이 각각 다른 디스플레이 회사에 따라 컴퓨터로 이미지를 볼 때는 보여지는 색감이 다르게 나타날 수밖에 없다.
   
 <p align="center"><img src="https://user-images.githubusercontent.com/112764860/192721310-62f5a48d-94b2-44bb-9820-e2d8a7b97c40.png" width="60%" height="60%"/></p>
+ <p align="center"><그림 2> Linear Wokrflow </p> 
 
   - 따라서 여러 이미지 데이터들이 모이는 ‘합성‘의 결과물을 만들기 위해 작업을 할 때 Linear 환경으로 이미지를 변환시킨 후 상영되는 최종적인 모니터, 플랫폼에 맞게 이미지를 변환하자는 합의가 이루어졌다. 이를 통해 작업상의 혼선을 막고 통일성 있는 결과물을 만들어 낼 수 있다. 
 
@@ -37,9 +38,9 @@
 ## Color Managment 
   - 이미지 생산과 창의적 의도를 일관성있게 제공하기 위해 카메라, 컴퓨터, TV, 스마트폰 등 다양한 디스플레이 장치의 간의 색상 표현을 제어하고 변환하는 시스템이다. 
 <p align="center"><img src="https://user-images.githubusercontent.com/112764860/192717736-3ad5b8bf-353a-4874-85eb-16961bf02c57.png" width="50%" height="50%"/></p>
- <p align="center"><그림 2> 색도 다이아그램(Chromaticity Diagrams)</p> 
+ <p align="center"><그림 3> 색도 다이아그램(Chromaticity Diagrams)</p> 
 
-
+ - 인간의 눈으로 인지할 수 있는 모든 색도를 2개의 축 좌표 상에 시각화한 것이다.
 
 ## Visual Languages for Stortytelling
 * Value (명도) 
