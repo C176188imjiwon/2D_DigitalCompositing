@@ -1,2 +1,1 @@
-# 2D_DigitalCompositing
-Config files for my GitHub profile.
+<2D 디지털 합성_4주차 Weekly Research>
