@@ -1,4 +1,4 @@
-### <2D 디지털 합성_4주차 보강 Weekly Research>
+### <2D 디지털 합성_5주차 (4주차 보강) Weekly Research>
 # Visual languages for Storytelling
 
 ***
