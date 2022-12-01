@@ -15,5 +15,15 @@
 - Maya- Render Setting - AOVs 에서 필요한 채널들을 선택해 추출 가능하다.
 <p align="center"><img src="https://user-images.githubusercontent.com/112764860/205132447-1dce4a9e-b14d-4cd9-8657-773e81ef00d1.png" width="60%" height="60%"/></p>
 
-최근에는 'crytomatte'기능을 주로 사용하는데, 렌더링 시 특수 데이터를 저장하여 멀티 채널 이미지를 생성할 수 있다. 생성된 채널 이미지는 합성 시 사용된다.
-렌더러와 누크에 기본으로 crytomatte가 들어있으며, 장점은 마스크처리로 알파 채널 지정이 손쉽다는 것이다.
+- 최근에는 'crytomatte'기능을 주로 사용하는데, 렌더링 시 특수 데이터를 저장하여 멀티 채널 이미지를 생성할 수 있다.
+렌더러와 누크에 기본으로 crytomatte가 들어있으며, 장점은 마스크처리로 알파 채널 지정이 손쉽다는 것이다. 이렇게 여러 개의 채널로 분리가 되면 후보정 시 자유도가 높아진다.
+
+
+---
+
+## 노드 연결 시 유의할 점 
+<p align="center"><img src="https://user-images.githubusercontent.com/112764860/205143408-2521f386-53bf-49d3-ae18-81f84c7ff338.png" width="70%" height="70%"/></p>
+ <p align="center"> premult 후 color grade (상) 와 color grade 후 premult (하) </p> 
+ 
+- ## premult 하기 전에 color grade를 해야 한다.
+여러 레이어를 겹치다 보면 가장자리에 깨지는 부분이 생길 수 있다. 합성을 더 자연스럽게 하기 위해 순서를 지키는 것이 좋다
