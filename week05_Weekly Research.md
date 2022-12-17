@@ -53,9 +53,10 @@ EX) 웨스앤더슨- 센터 컴포지션의 대가
 주제와 부주제의 텐션을 쉽게 만들수있는 구도 
 
 ## Framing
-
+-
 ## Lines
-Linear Motif 
+- 선은 이동과 방향성을 보여준다
+- Linear Motif : 라인은 숏을 계획하는 데 중요한 요소이다. 스토리보드에 리니어 모티프를 표시해두면 시퀀스의 흐름과 영상의 집중도를 잘 조절할 수 있다. 
 Lines:선형적인 모양 
 수평수직으로 패턴을 만들어 놓음
 
@@ -63,17 +64,11 @@ Lines:선형적인 모양
 
 ## Shape 
 
-feel comfortable
-kindness, trust honesty
-order 
+#### [모양이 주는 정서 효과]
 
-* Circle
-
-Makes various emotions
-
-* Triangle
-
-trinity
+* Circle(원형) : 간접적, 수동적, 로맨틱, 부드러움, 유기적, 어린아이 다운, 안정적, 유동적인 
+* Triangle(삼각형): 힘찬, 공격적인, 활동적인, 강렬한 ,위협적인, 무서운, 혼란스러운 , trinity
+* Square(사각형): 직접적, 산업적, 규칙적, 선형적, 부자연스러운, 성인, 완고한 
 
 ## Patterns
 ## Depth
