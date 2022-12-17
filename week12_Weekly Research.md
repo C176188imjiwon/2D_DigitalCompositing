@@ -27,3 +27,21 @@
  
 - ## premult 하기 전에 color grade를 해야 한다.
 여러 레이어를 겹치다 보면 가장자리에 깨지는 부분이 생길 수 있다. 합성을 더 자연스럽게 하기 위해 순서를 지키는 것이 좋다
+
+
+## [3D이미지에 Sharpen 효과를 입힐 때: slog3 ]
+* linear 상태의 3D 이미지를 log2Lin1 노드로 log 이미지로 만들어 중간톤 상태로 만든다음,  
+sharpen 노드를 적용한다. 그다음 다시 log를 linear로 바꿔준다.
+<p align="center"><img src="https://user-images.githubusercontent.com/112764860/208229596-be365439-80e6-44b4-876c-656a9db6050d.png" width="60%" height="60%"/></p>
+ <p align="center"><그림 3> slog3과의 차이점 (출처:GeorgeKhelashvili) </p>   
+
+ <p align="center"><img src="https://user-images.githubusercontent.com/112764860/208229751-a5bcf8c4-cf9e-4955-b557-00c6f3506d6b.png" width="40%" height="40%"/></p
+
+  log노드로 바꾸고 sharpen를 적용해야 색보정을 할 때 이미지가 열화 될 경우가 적어지고 선명하게 잘 들어간다.
+  
+  * Shuffle 노드  
+: rbga 채널이 있어서 연결을 통해 색을 바꿀수도 있고, 투명하게 만들 수도 있다   
+
+
+#### [노드 프리셋 만들기]
+프리셋으로 등록하고 싶은 노드 묶음 전체 선택 후 랜지 아이콘 클릭- create 클릭 후 이름정해서 등록하기 
