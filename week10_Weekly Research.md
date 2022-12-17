@@ -5,8 +5,18 @@
 
 
 ### [2 point tracking]
+- 두 트래커를 추출한 다음 선택해 Transform (stabilize,baked)를 생성   
+
+- 두 지점을 기반으로 회전을 역방향을 넣어서 바인드박스가 회전한다.  
+(회전이 없는것처럼 보이게 만들어준다)
+
+- 그위에 다른 카메라 트래킹들을 적용한 뒤 stabilize를 다시 얹어주면 원본 플레이트로 다시 돌아오게 된다.   
+
 
 ### [3 point tracking]
+
+- 3개의 포인트로 계산하게 된다. 
+-  움직이는 화면 내의 어떤 면에 다른 요소를 집어 넣을 수 있다. 3point tracker는 rotation 과 scale 까지 변화한다
 
 ### [4 point tracking]
 
