@@ -43,8 +43,10 @@
   이미지요소들의 밸런스를 잡는데 큰 도움을 준다 
 
 * Center domposition: 대칭구도. 가장 강력한 구도다. 가운데 피사체가 크게들어가고 좌우대칭되는 이미지
+
+
   EX) 웨스앤더슨- 센터 컴포지션의 대가
-  <p align="center"><img src="(https://user-images.githubusercontent.com/112764860/208225698-689c1fcb-3107-41a2-8bdf-e307fa866f66.png" width="70%" height="70%"/></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/112764860/208225762-f4636814-ae36-41af-8e38-a5a06a555bdf.png"(" width="50%" height="50%"/></p>
  <p align="center"><사진 1> The Royal Tenenbaums의 웨스 앤더슨 대칭 샷(출처:studiobinder)   </p> 
 
 ## Rule of third
