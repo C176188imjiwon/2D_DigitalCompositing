@@ -106,3 +106,9 @@ trinity
 * 영화/애니메이션에서 색상이 변화했다는 의미는 곧 이야기, 이야기 속 캐릭터, 또는 이야기의 주제에 변화가 생겼다는 걸 의미한다.
 
 
+<p align="center"><img src="https://user-images.githubusercontent.com/112764860/208225080-9303b6dd-fff2-4819-bc65-382f318dc897.png" width="70%" height="70%"/></p>
+ <p align="center"><사진 1> '스타워즈' 속 캐릭터의 변화 (출처:studiobinder)   </p> 
+
+<p align="center"><img src="https://user-images.githubusercontent.com/112764860/208225216-843f240c-9bfe-48b5-ac02-96b2d4d4c104.png" width="70%" height="70%"/></p>
+ <p align="center"><사진 2> 'UP' 속 이야기 흐름의 변화 (출처:studiobinder)   </p> 
+
