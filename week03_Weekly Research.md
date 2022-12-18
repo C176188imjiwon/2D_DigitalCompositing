@@ -35,8 +35,13 @@
 - 이미지르 가공하고 수정할때는 레이어마스크로 사용해야한다. 그래야 원본 이미지의 손실없이 합성이 가능하다
 
 -합성이라는 과정은 진짜처럼 보이게하거나 포토리얼하게 작업을 하는 것이다. 진짜를 만든다고 생각하지 말자.  
+<p align="center"><img src="https://user-images.githubusercontent.com/112764860/208296746-12329fbf-4e97-423f-b564-9d6b06e7f5d4.png" width="60%" height="60%"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/112764860/208296789-4a87d3d9-a321-485e-a15e-e3e8d8c080df.png" width="60%" height="60%"/></p>
 
-- 포토샵에서 각각의 채널을 빛이라고 생각하자    
+
+### - 포토샵에서 각각의 채널을 빛이라고 생각하자    
+  
+  - red 채널에서의 기준에서 
   흰색에 가깝다-빨강색의 분포가 많다   
   검은색에 가깝다- 빨강색이 거의없다 
 
@@ -45,6 +50,7 @@
 - 카메라 렌즈를 한 번 거치면서 빛의 왜곡과 분산에 의해 모든 색상이 온전히 맺히는 것에 실패한 것
 
 ![image](https://user-images.githubusercontent.com/112764860/208296516-a8b63e6e-4d94-41a5-a56d-7b7daef3a8d5.png)
+
 출처: https://en.wikipedia.org/wiki/Chromatic_aberration
 
 film grain ISO nosie
