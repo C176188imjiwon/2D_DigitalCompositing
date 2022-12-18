@@ -16,11 +16,20 @@
 
 ## 4point- cornerpin2D tracking 
 
-10주차에 배운 4 point trabking에서 cornerpin을 옮겨서 사용하는 방법 
+10주차에 배운 4 point tracking에서 cornerpin을 옮겨서 사용하는 방법 
 
 
 
 
 
-## 2.5D tracking 
+## 2.5D 합성 
+- 2D 이미지가 3D화 되어서 공간감이 낼 수 있도록 만드는 합성 
+
+- 좋아하는 2.5D 합성 찾아보기 
+
+
+#### [ 매트 페인팅을 이용한 2.5D 합성 ]
+
+
+#### [ 평면 이미지 하나를 이용한 2.5D 합성 ]
 2.5D 카메라 트래킹
