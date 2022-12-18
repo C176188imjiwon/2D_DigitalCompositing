@@ -100,6 +100,9 @@ premult를 해주면 알파가 투명화된 card 파일로 만들어진다
 ***
 - 카메라에 키프레임을 넣어 안으로 들어가는 샷을 만든다  
 - 면 마다 엇갈리는 부분이 있다면 화면을 보면서 조절한다  
+
+<p align="center"><img src="https://user-images.githubusercontent.com/112764860/208286110-0b5c2e02-3184-4381-869b-b11b058821aa.png" width="60%" height="60%"/></p>
+
 - 2.5D 복도에 3D오브젝트나 다른 2D plate 들을 넣을 수 있게 된다.
 - 카메라에 rotate을 주어 공간 안에서 회전이 들어가는 씬도 만들 수 있다.
 
