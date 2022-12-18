@@ -70,9 +70,23 @@ premult를 해주면 알파가 투명화된 card 파일로 만들어진다
 - 레이어 별로 shuffle로 카드 오브젝트로 변환시켜 배치한다.
 <p align="center"><img src="https://user-images.githubusercontent.com/112764860/208284984-30ff6faf-3ddb-415a-88b8-a7975b024b32.png" width="60%" height="60%"/></p>
 
+
 #### [누크에서 자주사용하는 log expression]
 - 노드 별 라벨이 일일히 이름을 입력하기 귀찮을 때, label 칸에 {value int} 를 입력 
   -> 그러면 psd파일에 들어있는 레이어 이름으로 자동 라벨링이 된다. 
 
-#### [ 평면 이미지 하나를 이용한 2.5D 합성 ]
+#### [카메라 구성] 
+- 멀리 보내는 레이어 들은 크기들을 조절해 배치한다 
+- 카메라에 키프레임을 줘서 화면안으로 공간을 들어가도록 한다. 화면 안으로 들어갈 수록 깊이감이 잘 느껴지게 된다 
+
+### [ZDefocus]
+- ZDefocus 노드는 point를 이용해 깊이감을 낸 화면에 포커스블러를 자동으로 생성시켜준다 점에 멀어질수록 블러처리가 된다. 
+- 카메라로 직접 많이 찍어보면서 포커스의 감을 익히는 것이 좋다.
+<p align="center"><img src="https://user-images.githubusercontent.com/112764860/208285474-61905785-c732-4340-ab81-45d8bc41a330.png" width="60%" height="60%"/></p>
+
+***
+### [ 평면 이미지 하나를 이용한 2.5D 합성 ]
 2.5D 카메라 트래킹
+
+
+
