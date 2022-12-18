@@ -6,6 +6,18 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/112764860/208246598-fe082c3c-60ef-4944-80ad-95d88f86f555.png" width="60%" height="60%"/></p>
 - Tracker 노드를 추가한 뒤 Add track을 클릭하면 마커를 만들 수 있다   
 
+#### [ 트래킹 마커를 찍는 기준] 
+<p align="center"><img src="https://user-images.githubusercontent.com/112764860/208280500-b7dcae06-2739-4afd-b783-fcc08867fbe3.png" width="60%" height="60%"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/112764860/208280587-964ac642-ff11-4a04-8477-956d50702a0e.png" width="60%" height="60%"/></p>
+
+- 주변과의 대비가 심한 곳의 픽셀 4개의 중간 사이에 트래킹 마커를 찍는 곳이 좋다   
+  픽셀이 불분명한 부분에 트래커를 찍으면 제대로 추출이 안 될 수 있다. 
+
+-  또한 빠르게 화면 전환이 될 경우를 대비해 가운데 영역이 바뀌지않도록 바깥 영역 표시를 늘려 추출 범위계산에 포함되도록 한다.   
+   변화가 많이 생기는 쪽으로 길이를 늘리면 된다.
+
+(ex- 가로로 움직임이 많다면 가로로 길이를 늘려주기)
+
 
 ### [2 point tracking]
 
