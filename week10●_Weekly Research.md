@@ -1,7 +1,7 @@
 ### <2D 디지털 합성_10주차 Weekly Research>
 ## 카메라 트래킹
 
-### [1 point traker를 이용해 합성 및 rotopaint]
+### [1 point tracker를 이용해 합성 및 rotopaint]
 - 움직이는 영상 에서의 물체를 가려버리거나 추가할 때 사용   
 <p align="center"><img src="https://user-images.githubusercontent.com/112764860/208246598-fe082c3c-60ef-4944-80ad-95d88f86f555.png" width="60%" height="60%"/></p>
 - Tracker 노드를 추가한 뒤 Add track을 클릭하면 마커를 만들 수 있다   
