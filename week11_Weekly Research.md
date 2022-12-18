@@ -27,7 +27,7 @@ Form 창에서 set to input를 눌러 아래와 같이 맞출 수 있다
 
 - 그러나 카메라 트래킹 마커가 표시된 화면을 사용하다보면 합성을 하고싶은 가장자리까지 합성이 되지 않는 경우가 생긴다   
 
-<p align="center"><img src="https://user-images.githubusercontent.com/112764860/208282384-f611875f-862b-4462-a333-1d1ad1637f6b.png" width="60%" height="60%"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/112764860/208282384-f611875f-862b-4462-a333-1d1ad1637f6b.png" width="70%" height="70%"/></p>
 
 - cornpin2d 노드를 하나 더 생성 한 뒤 연결, form 창에서 ' set to input ' 클릭 후 cornerpin 창에서 Copy form 클릭  
  
