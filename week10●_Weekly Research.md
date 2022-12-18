@@ -117,6 +117,8 @@ AutoTracks 창에서 사용할 트래커들을 조절 한 뒤 delete unsolved, d
 위치,방향,색상을 추출해 가상으로 3D공간이 나타나게 된다 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/112764860/208241568-dcf3a087-5539-467a-9588-4787d637207e.png" width="60%" height="60%"/></p>
--  그 위에 3D 오브젝트나 2d 이미지영상을 보다 더 자연스럽게 합성할 수 있게 된다  
+
+
+- 그 위에 3D 오브젝트나 2d 이미지영상을 보다 더 자연스럽게 합성할 수 있게 된다  
 
   쓰리디영역을 다시 2D로 렌더링 할려면 scanlineRender를 이용한다
