@@ -18,6 +18,7 @@
 
 10주차에 배운 4 point tracking에서 cornerpin을 옮겨서 사용하는 방법 
 
+![image](https://user-images.githubusercontent.com/112764860/208282084-c14bf560-373c-4216-b0bc-3a2aa953f312.png)
 
 
 
